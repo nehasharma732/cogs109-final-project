@@ -1,8 +1,8 @@
 # Enhancing Product Categorization on Amazon through NLP and Machine Learning Techniques
 
-[Final write- up](https://github.com/nehasharma732/cogs109-final-project/blob/main/report/report.pdf)
-
 Team Members: [Tiffany Gunawan](https://github.com/kuwtiiff), [Neha Sharma](https://github.com/nehasharma732), [Baraa Zekeria](https://github.com/bzekeria)
+
+[Final write- up](https://github.com/nehasharma732/cogs109-final-project/blob/main/report/report.pdf)
 
 <a id='overview'></a>
 ## Overview
